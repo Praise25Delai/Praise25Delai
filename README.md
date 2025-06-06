@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Praise
-- I'm currently a Mathematical Science Student
-- I'm currently learning JavaScript and Python
-- My secondary GitHub account is Praise-codes
-- I'm looking to collaborate with anyone interested in IoT
-- 💬 Ask me anything (let's be friends)
+### I'm Praise🤗
+- 👩‍🎓I'm currently a Mathematical Science Student
+- 👩‍💻I'm currently learning JavaScript and Python
+- 👉My secondary GitHub account is Praise-codes
+- 👯I'm looking to collaborate with anyone interested in IoT
+- 💬 Ask me anything (let's be friends😉)
 - 📫 How to reach me: praisedelali07@gmail.com
+  
